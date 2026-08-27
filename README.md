@@ -39,32 +39,32 @@ As evidências de execução ficam em `docs/evidencias/`. Cada imagem abaixo dem
 
 ### 1. Lista inicial
 
-![Lista inicial](docs/evidencias/01-lista-inicial.png)
+![Lista inicial](docs/evidencias/1%20-%20Tela%20Inicial.png)
 
-### 2. Navegação para o formulário
+### 2. Cadastro de tarefa
 
-![Formulário de nova tarefa](docs/evidencias/02-navegacao-formulario.png)
+![Cadastro de tarefa](docs/evidencias/2%20-%20Cadastro.png)
 
-### 3. Preenchimento do cadastro
+### 3. Tarefa cadastrada aparecendo na lista
 
-![Cadastro de tarefa](docs/evidencias/03-cadastro-preenchido.png)
+![Tarefa cadastrada aparecendo na lista](docs/evidencias/3%20-%20Tarefa%20cadastrada%20aparecendo%20na%20lista.png)
 
-### 4. Tarefa cadastrada na lista
+### 4. Edição de uma tarefa
 
-![Tarefa cadastrada](docs/evidencias/04-tarefa-cadastrada.png)
+![Edição de uma tarefa](docs/evidencias/4%20-%20Edi%C3%A7%C3%A3o%20de%20uma%20tarefa.png)
 
-### 5. Edição de tarefa
+### 5. Tarefa concluída
 
-![Edição de tarefa](docs/evidencias/05-edicao-tarefa.png)
+![Tarefa concluída](docs/evidencias/5%20-%20Tarefa%20Conclu%C3%ADda.png)
 
-### 6. Tarefa concluída
+### 6. Exclusão de tarefa
 
-![Tarefa concluída](docs/evidencias/06-tarefa-concluida.png)
+![Exclusão de tarefa](docs/evidencias/6%20-%20Exclus%C3%A3o%20de%20Tarefa.png)
 
-### 7. Exclusão de tarefa
+### 7. Navegação entre lista e formulário
 
-![Exclusão de tarefa](docs/evidencias/07-exclusao-tarefa.png)
+![Navegação entre lista e formulário](docs/evidencias/7%20-%20Navega%C3%A7%C3%A3o%20entre%20lista%20e%20formul%C3%A1rio.png)
 
 ### 8. Build e execução bem-sucedidos
 
-![Build bem-sucedido](docs/evidencias/08-build-execucao.png)
+![Build bem-sucedido](docs/evidencias/8%20-%20Build%20ou%20execu%C3%A7%C3%A3o%20do%20projeto%20sem%20erros.png)
