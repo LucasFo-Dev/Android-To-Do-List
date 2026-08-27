@@ -35,10 +35,36 @@ A `MainActivity` obtém o banco Room, cria `TarefaRepository` e fornece uma `Tar
 
 ## Evidências
 
-As evidências de execução devem ficar em `docs/evidencias/`. O arquivo `build.md` registra a validação de compilação. Para completar a entrega visual no emulador, salve capturas legíveis dos fluxos abaixo nessa pasta:
+As evidências de execução ficam em `docs/evidencias/`. Cada imagem abaixo demonstra uma etapa do fluxo funcional da aplicação.
 
-- lista inicial e acesso ao formulário;
-- cadastro e tarefa exibida na lista;
-- edição de uma tarefa;
-- tarefa concluída;
-- exclusão de uma tarefa.
+### 1. Lista inicial
+
+![Lista inicial](docs/evidencias/01-lista-inicial.png)
+
+### 2. Navegação para o formulário
+
+![Formulário de nova tarefa](docs/evidencias/02-navegacao-formulario.png)
+
+### 3. Preenchimento do cadastro
+
+![Cadastro de tarefa](docs/evidencias/03-cadastro-preenchido.png)
+
+### 4. Tarefa cadastrada na lista
+
+![Tarefa cadastrada](docs/evidencias/04-tarefa-cadastrada.png)
+
+### 5. Edição de tarefa
+
+![Edição de tarefa](docs/evidencias/05-edicao-tarefa.png)
+
+### 6. Tarefa concluída
+
+![Tarefa concluída](docs/evidencias/06-tarefa-concluida.png)
+
+### 7. Exclusão de tarefa
+
+![Exclusão de tarefa](docs/evidencias/07-exclusao-tarefa.png)
+
+### 8. Build e execução bem-sucedidos
+
+![Build bem-sucedido](docs/evidencias/08-build-execucao.png)
